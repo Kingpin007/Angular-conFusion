@@ -6,3 +6,9 @@ export class Dish {
     price: string;
     description: string;
 }
+
+export class Comment {
+	value: string;
+	rating: string;
+	author: string;
+}
